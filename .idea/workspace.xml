@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a57d55b-81a5-4f3c-931f-f91c1393d597" name="Changes" comment="" />
+    <list default="true" id="7a57d55b-81a5-4f3c-931f-f91c1393d597" name="Changes" comment="Medina b" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +40,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696942071907</updated>
-      <workItem from="1696942073121" duration="1045000" />
+      <workItem from="1696942073121" duration="1383000" />
     </task>
+    <task id="LOCAL-00001" summary="Medina b">
+      <created>1696943432372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696943432372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Medina b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Medina b" />
   </component>
 </project>
