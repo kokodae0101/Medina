@@ -4,6 +4,7 @@ public class Main {
         System.out.println("asdasdsa");
 
         System.out.println("Medina mes");
+        System.out.println("mimi");
 
     }
 }
